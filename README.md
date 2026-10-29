@@ -2,4 +2,4 @@
 ## Institute: Moodlakatte Institute Of Technology, Kundapuara, India
 
 
-PROJECT: CIRCULAR MAZE GENERATOR USING TURTLE
+PROJECT: CLOCK USING TURTLE
